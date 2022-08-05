@@ -14,7 +14,7 @@
 
 ## Project Experience
 
-### Energy Internet Lab of CUHKsz		$\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ $														  2021.05-now
+### Energy Internet Lab of CUHKsz		&emsp;														  2021.05-now
 
 **Research assistant**										 							              
 
