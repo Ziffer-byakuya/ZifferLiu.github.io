@@ -42,7 +42,7 @@ $\bullet$ Proposed a new idea of clustering + polygon fitting method for feature
 
 $\bullet$ Won the first place in the Hong Kong division of Ernst & Young data science challenge and the top 6 in the global finals
 
-### ASC Student Supercomputer Challenge：Language challenges and cluster calibration			  	$\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \   $						  2020.11-2021.01
+### ASC Student Supercomputer Challenge：Language challenges and cluster calibration			  	&emsp;　　　2020.11-2021.01
 
 **Group member**																		              
 
@@ -54,7 +54,7 @@ $\bullet$ Tested the comprehensive memory bandwidth of the cluster to ensure the
 
 $\bullet$ Won the second prize in the ASC competition of 2020-2021
 
-### National College Students Mathematical Modeling Competition(2021)			$\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \  \ \ \  $										   2021.09-2021.09
+### National College Students Mathematical Modeling Competition(2021)			&emsp;　　　　　　　　　　2021.09-2021.09
 
 **Group leader**																			              
  $\bullet$ Proposed a way to use CART to study the effect of catalyst and reactant ratio on reactant conversion rate and C4 olefin yield rate
@@ -66,9 +66,9 @@ $\bullet$ Won the second prize in the ASC competition of 2020-2021
 ## Internship Experience
 ### Corporation: SenseTime  													   Department: Computer Vision
 
-**Group: Reinforcement Learning     						$\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  \ \ \ \ \  $																	  	 Time: 2021.01-2021.05**
+**Group: Reinforcement Learning     						&emsp;　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　　　	 　　Time: 2021.01-2021.05**
 
-**Intern of Chinese chess algorithm									$\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ $																					     Location: Beijing, China**
+**Intern of Chinese chess algorithm									&emsp;　　　　　　　　　　　　　　　　　　　　　　　　　　　　　		 　　　　　  Location: Beijing, China**
 
 $\bullet$ Constructed a parallel self-play model to speed up the training speed.
 
@@ -78,9 +78,9 @@ $\bullet$ Compared the strength of the model under different super parameters ca
 
 ### Corporation: JOYY-BIGO  											    	Department: Operation Management
 
-**Group: Hello school     					$\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  \ \ \ \ \ \ \  \ \ \ \ \ \ \  \ \ \ \ \ \ \  \ \ \ \ \  $																										          Time: 2021.05-2021.08**
+**Group: Hello school     					&emsp;　　　　　　　　　　　　　　　　　　　　　　　　　    　　　　　　　　　　　　　 　　    Time: 2021.05-2021.08**
 
-**Operation team leader									$\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \  \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  \ \ \ \ \ \ \  \ \  $																					           	 Location: Guangzhou, China**
+**Operation team leader									&emsp;　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 Location: Guangzhou, China**
 
 $\bullet$ Led a team of 20 people to manage the daily operation of Hello campus in 8 colleges and universities in Guangdong (CHUK(SZ), SUSTech, SZTU, GDOU, ZHCOJLU, Shaoguan college, DGUT and Guangzhou southern college). The number of users in each college exceeded 2000 and the daily active users exceeded 200.
 
