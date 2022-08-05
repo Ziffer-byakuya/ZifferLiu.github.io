@@ -14,7 +14,7 @@
 
 ## Project Experience
 
-### Energy Internet Lab of CUHKsz		&emsp;														  2021.05-now
+### Energy Internet Lab of CUHKsz &emsp;　　　　　　　　　　　　　　　　　　　　　　　　　　　　　2021.05-now
 
 **Research assistant**										 							              
 
@@ -30,7 +30,7 @@
 
   $\bullet$ This project is proceeding in an orderly manner
 
-### Ernst & Young global data science challenge	$\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  $						                        2021.05-2021.07
+### Ernst & Young global data science challenge &emsp;　　　　　　　　　　　　　　　　　　　　　　2021.05-2021.07
 
 **Group leader**																			              
 
