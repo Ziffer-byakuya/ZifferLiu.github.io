@@ -42,7 +42,7 @@ $\bullet$ Proposed a new idea of clustering + polygon fitting method for feature
 
 $\bullet$ Won the first place in the Hong Kong division of Ernst & Young data science challenge and the top 6 in the global finals
 
-### ASC Student Supercomputer Challenge：Language challenges and cluster calibration			  	&emsp;　　　2020.11-2021.01
+### ASC Student Supercomputer Challenge：Language challenges and cluster calibration			  	&emsp;2020.11-2021.01
 
 **Group member**																		              
 
