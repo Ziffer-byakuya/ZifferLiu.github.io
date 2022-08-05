@@ -64,7 +64,7 @@ $\bullet$ Won the second prize in the ASC competition of 2020-2021
  $\bullet$ Won the winning prize of Guangdong division of national college students mathematical modeling competition
 
 ## Internship Experience
-### Corporation: SenseTime  													   Department: Computer Vision
+### Corporation: SenseTime　　　　　　　　Department: Computer Vision
 
 **Group: Reinforcement Learning     						&emsp;　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　　　	 　　Time: 2021.01-2021.05**
 
@@ -76,7 +76,7 @@ $\bullet$ Trained the model with offline method to ensure the convergence of the
 
 $\bullet$ Compared the strength of the model under different super parameters calibrated the chess ability of the model.
 
-### Corporation: JOYY-BIGO  											    	Department: Operation Management
+### Corporation: JOYY-BIGO　　　　　　　　Department: Operation Management
 
 **Group: Hello school     					&emsp;　　　　　　　　　　　　　　　　　　　　　　　　　    　　　　　　　　　　　　　 　　    Time: 2021.05-2021.08**
 
