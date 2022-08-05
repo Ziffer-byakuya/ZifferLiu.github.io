@@ -6,7 +6,7 @@
 **Major: Electronic Information Engineering**
 **Degree: Bachelor**
 
-  • GPA&Rank：**3.753**/4.0(EIE Rank **6**/101)
+  • GPA&Rank：**3.767**/4.0(EIE Rank **6**/101)
   
   • Scholarship：Admission Scholarship: **60,000 CNY**, Academic Scholarship: **20,000 CNY**, College Scholarship: **1000 CNY**
   
